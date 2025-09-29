@@ -1,3 +1,3 @@
-   // if (intervals.length == 0) {
-        //     return new int[0][];
-        // }
+     // if(mid == 7){
+            //     System.out.println(row+ ""+col);
+            // }
