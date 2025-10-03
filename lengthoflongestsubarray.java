@@ -1,5 +1,5 @@
 import java.util.*;
-
+//day 12
 public class lengthoflongestsubarray {
     public static int maxLen(int[] arr) {
         Map<Integer, Integer> map = new HashMap<>();

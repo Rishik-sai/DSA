@@ -1,5 +1,5 @@
 import java.util.*;
-
+//day 12
 public class longestsequence {
     public static int longestSuccessiveElements(int[] a) {
         int n = a.length;
