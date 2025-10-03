@@ -1,0 +1,169 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "buyandsellstaock",
+            "request": "launch",
+            "mainClass": "buyandsellstaock",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "countinversions",
+            "request": "launch",
+            "mainClass": "countinversions",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "duplicateinanarray",
+            "request": "launch",
+            "mainClass": "duplicateinanarray",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "foursum",
+            "request": "launch",
+            "mainClass": "foursum",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "griduniquepath",
+            "request": "launch",
+            "mainClass": "griduniquepath",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "kadanesalgorithm",
+            "request": "launch",
+            "mainClass": "kadanesalgorithm",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "lengthoflongestsubarray",
+            "request": "launch",
+            "mainClass": "lengthoflongestsubarray",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "longestsequence",
+            "request": "launch",
+            "mainClass": "longestsequence",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "majorityelement",
+            "request": "launch",
+            "mainClass": "majorityelement",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "majorityelen3",
+            "request": "launch",
+            "mainClass": "majorityelen3",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "matrixzero",
+            "request": "launch",
+            "mainClass": "matrixzero",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "mergetwosortedarray",
+            "request": "launch",
+            "mainClass": "mergetwosortedarray",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "nextpermutation",
+            "request": "launch",
+            "mainClass": "nextpermutation",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "overlappingsubintervals",
+            "request": "launch",
+            "mainClass": "overlappingsubintervals",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "pascaltriangle",
+            "request": "launch",
+            "mainClass": "pascaltriangle",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "powxn",
+            "request": "launch",
+            "mainClass": "powxn",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "repeatingandmissing",
+            "request": "launch",
+            "mainClass": "repeatingandmissing",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "reversepairs",
+            "request": "launch",
+            "mainClass": "reversepairs",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "rotatematrix",
+            "request": "launch",
+            "mainClass": "rotatematrix",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "searchin2Darray",
+            "request": "launch",
+            "mainClass": "searchin2Darray",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "sort012array",
+            "request": "launch",
+            "mainClass": "sort012array",
+            "projectName": "JAVA DSA_a975095c"
+        },
+        {
+            "type": "java",
+            "name": "twosum",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "JAVA DSA_a975095c"
+        }
+    ]
+}
