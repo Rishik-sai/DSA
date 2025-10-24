@@ -12,7 +12,6 @@ public class medianinrowwisematrix {
     static int findMedian(int[][] matrix) {
         int rows = matrix.length;
         int cols = matrix[0].length;
-
         int low = matrix[0][0];
         int high = matrix[0][cols - 1];
         for (int i = 1; i < rows; i++) {

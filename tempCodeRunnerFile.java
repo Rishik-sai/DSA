@@ -1,3 +1,5 @@
-     // if(mid == 7){
-            //     System.out.println(row+ ""+col);
+            // if (arr.get(mid) <= k && k <= arr.get(high)) {
+            //         low = mid + 1;
+            // } else {
+            //         high = mid - 1;
             // }
