@@ -34,7 +34,6 @@ public class kthelementinsortedarr {
         ArrayList<Integer> b = new ArrayList<>(Arrays.asList(1, 4, 8, 10));
 
         int k = 5;
-        System.out.println("The " + k + "-th element of the two sorted arrays is: "
-                           + kthElement(a, b, k));
+        System.out.println("The " + k + "-th element of the two sorted arrays is: "+ kthElement(a, b, k));
     }
 }
